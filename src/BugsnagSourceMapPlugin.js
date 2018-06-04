@@ -1,6 +1,5 @@
 import async from 'async';
 import superagent from 'superagent';
-import path from 'path';
 import fs from 'fs';
 
 const BUGSNAG_ENDPOINT = 'https://upload.bugsnag.com';
